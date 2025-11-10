@@ -1,0 +1,1 @@
+This project explores the statistical behavior of random walks and their relationship to Markov chain theory. It simulates several types of one-dimensional random walks in R to empirically verify theoretical results related to first return times, exit times, and recurrence vs transience properties.
